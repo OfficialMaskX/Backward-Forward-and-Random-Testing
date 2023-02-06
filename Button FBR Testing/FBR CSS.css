@@ -1,0 +1,55 @@
+#FBRHolder {
+    height: 648.5px;
+    width: 1365.5px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#Text1Holder {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 274.25px;
+    left: 632.75px;;
+}
+
+#Text1 {
+    font-size: 25px;
+    position: relative;
+    top: 12.5px;
+    left: 43.75px;
+}
+
+#FBRButtonHolder {
+    height: 100px;
+    width: 562.5px;
+    position: relative;
+    top: 374.25px;
+    left: 407.75px;
+}
+
+.Text1Buttons {
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+}
+
+#BackwardForText1 {
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+
+#RandomForText1 {
+    position: relative;
+    top: 25px;
+    left: 50px;
+}
+
+#ForwardForText1 {
+    position: relative;
+    top: 25px;
+    left: 75px;
+}
+
